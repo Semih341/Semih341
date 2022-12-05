@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Semih
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning in school 
-- 💞️ I’m looking to collaborate on EMS 
+- 💞️ I’m looking to collaborate on EMS :)
 - 📫 How to reach me semihcigir@gmail.com
 
 <!---
